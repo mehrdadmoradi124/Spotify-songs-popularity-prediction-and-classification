@@ -6,3 +6,5 @@ Then, we classified the popularity in 4 categories and used different classifica
 
 Also see datasets (raw, cleaned, and manipulated ones) in the following link:
 https://drive.google.com/drive/folders/11GZICZ4MwH4pnMh8wxg9NuStSpubc2GA?usp=sharing
+
+The report of this project is in Farsi language and explains about the whole process from understanding data to cleaning it and applying different models to it. At the end, we explained our insights from this project and compared our work with the work in literature. 
